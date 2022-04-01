@@ -16,7 +16,7 @@
 </div>
 
 ## Platforms
-All **Linux** platforms are supported, just make sure you have a **1920x0180** resolution monitor. Soon i'll work for **Windows** compatibility.
+All **Linux** platforms are supported, just make sure you have a **1920x1080** resolution monitor. Soon i'll work for **Windows** compatibility.
 ## Installation 
 Move the `icon.png` and `tk_calc.py` files in your absolute path, and move the file `calculator.sh` into the Desktop.
 ## Basic Usage
